@@ -67,8 +67,8 @@ Online Appointment Management System is a computerized management system. This s
   10. dbconfig.php contains the data for the connection of the localhost to the database of phpmyadmin. Login credentials for phpmyadmin can be restructured there as well.
   
   <b>For presentation:</b>
-  1. PPT -
-  2. ER Diagram -
+  1. PPT -https://github.com/likhitaavl2k/Online-Appointment-Management-System/blob/main/Extra/PPT.pptx
+  2. ER Diagram -https://github.com/likhitaavl2k/Online-Appointment-Management-System/blob/main/Extra/ER%20diagram.jpg
   
   <b>For report:</b>
-  
+  https://github.com/likhitaavl2k/Online-Appointment-Management-System/blob/main/Extra/Report.pdf
