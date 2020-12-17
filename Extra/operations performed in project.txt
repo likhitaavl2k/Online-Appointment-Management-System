@@ -1,0 +1,16 @@
+select
+insert
+delete
+update
+
+count
+distinct
+date
+timestamp
+like
+in
+
+join operations 
+order by
+
+addressed multi attributes 
