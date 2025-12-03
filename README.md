@@ -6,6 +6,9 @@ Online Appointment Management System is a computerized management system. This s
 
 <b>For patients:</b>
 
+<img width="1265" height="699" alt="Screenshot 2025-12-01 222202" src="https://github.com/user-attachments/assets/a8a0961a-f63f-422c-bcf1-1ce1864d7a86" />
+
+
 -Register as an patient account
 
 -Booking an appointment
@@ -19,6 +22,9 @@ Online Appointment Management System is a computerized management system. This s
 -Search clinic and doctor
 
 <b>For Admin:</b>
+
+
+<img width="1267" height="696" alt="Screenshot 2025-12-01 220011" src="https://github.com/user-attachments/assets/4229fcc4-3699-4bf0-9f41-8ba0b1fee272" />
 
 -Add doctor/clinic/manager in database
 
